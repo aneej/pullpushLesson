@@ -5,12 +5,12 @@ public class Person {
 	**/
 
 	// define attributes & methods here
-	String name ;
+	String s_name ;
 	
 	public String getName() {      // REVIEW  : Please add  setter method for attribute Name
-		return  name ;
+		return  s_name ;
 	}
 	public  void setName(String n)  {
-		name = new  String(n) ;
+		s_name = new  String(n) ;
 	}
 }
