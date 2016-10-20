@@ -5,6 +5,7 @@ public class Person {
 	**/
 
 	// define attributes & methods here
+<<<<<<< HEAD
 	String vName ;
 	
 	public String getName() {      // REVIEW  : Please add  setter method for attribute Name
