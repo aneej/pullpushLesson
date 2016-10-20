@@ -7,7 +7,7 @@ public class Person {
 	// define attributes & methods here
 	String name ;
 	
-	public String getName() {
+	public String getName() {      // REVIEW  : Please add  setter method for attribute Name
 		return  name ;
 	}
 	public  void setName(String n)  {
